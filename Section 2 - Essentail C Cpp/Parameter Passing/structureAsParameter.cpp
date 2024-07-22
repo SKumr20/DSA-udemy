@@ -8,7 +8,7 @@ struct Rectangle
 {
     int length;
     int breadth;
-}
+};
 
 int main()
 {
